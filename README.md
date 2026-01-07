@@ -5,6 +5,7 @@
 Tech Stack:
 **Frontend:** [https://github.com/justinclark-dev/job-tracker-ui](https://github.com/justinclark-dev/job-tracker-ui)<br>
 **Backend:** [https://github.com/justinclark-dev/job-tracker-api](https://github.com/justinclark-dev/job-tracker-api)
+**Wordpress** [https://44019389justinclarkdev-rybgz.wordpress.com/wp-admin/site-editor.php?p=%2Fnavigation](https://44019389justinclarkdev-rybgz.wordpress.com/wp-admin/site-editor.php?p=%2Fnavigation)
 
 ### MVP
 A job application tracker that I can use to apply for jobs and keep track of where I'm at in the application process for all jobs that I apply for. Core functionaility will be basic CRUD for adding job application detials 
